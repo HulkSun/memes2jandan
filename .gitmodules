@@ -1,0 +1,3 @@
+[submodule "RedditImageGrab"]
+	path = RedditImageGrab
+	url = https://github.com/HoverHell/RedditImageGrab.git
